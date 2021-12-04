@@ -1,1 +1,2 @@
 GMM Algorithm  
+enjoy 
