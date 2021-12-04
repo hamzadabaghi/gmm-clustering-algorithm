@@ -1,2 +1,1 @@
-GMM Algorithm  
-enjoy 
+"GMM algorithm, enjoy"  
